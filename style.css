@@ -1,0 +1,66 @@
+body{
+    color: dodgerblue;
+    border:25px ridge royalblue;
+}
+
+.heading{
+    font-size: 23px;
+    width: 80%;
+    margin:5px;
+    padding: 5px;
+    box-shadow: 5px 5px 5px royalblue;
+    font-weight: bolder;
+}
+
+.btn{
+    background-color: dodgerblue;
+    color: rgb(84, 212, 255);
+    border: 5px ridge royalblue;
+}
+
+.btn:hover{
+    background-color: dodgerblue;
+    color: deepskyblue;
+}
+
+.heading_div{
+    float: none;
+    background: white;
+    color: black;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px royalblue;
+    font-size: 15px;
+    border:5px groove royalblue;
+
+}
+
+.heading_div_2{
+    font-size: 18px;
+    padding: 15px;
+    margin: 15px;
+}
+
+.result_para_tag{
+    box-shadow: 10px 10px 10px royalblue;
+    font-size:20;
+    font-weight: bolder;
+}
+
+.©footer{
+
+    color: white;
+    bottom: 25;
+    width: 1852.5px;
+    background-color: darkgray;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    border:7px ridge royalblue;
+    border-radius: 10px;
+    box-shadow:10px 10px 10px royalblue;
+    margin-top: 180px;
+}
